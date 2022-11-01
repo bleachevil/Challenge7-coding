@@ -10,7 +10,8 @@
 ## Professional README Generator
 below is the final output with MP4 video
 
-https://github.com/bleachevil/Challenge9-coding/blob/main/index.js%20-%20Challenge9-coding%20-%20Visual%20Studio%20Code.mp4?raw=true
+https://user-images.githubusercontent.com/16517540/199315478-877ae30f-264d-4666-90f0-3d3c1988521d.mp4
+
 
 ## Acceptance Criteria
 GIVEN a command-line application that accepts user input <br />
