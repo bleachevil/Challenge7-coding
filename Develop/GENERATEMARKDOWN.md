@@ -8,19 +8,19 @@
 - [Testing](#test)
 - [Additional Info](#additional-info)
 ## Description:
-undefined
+generate markdown using javascript
 ## Installation:
-install npm install
+install npm
 ## Usage:
-no information
+no usage informatin
 ## License:
 MIT
 ## Guidelines Contribution:
-view all the detail below
+no guidelines
 ## Testing:
-testing sucessed
+testing sucess
 ## Additional Info:
-- Github: [bleahevil](https://github.com/bleahevil)
+- Github: [bleachevil](https://github.com/bleachevil)
 - Email: jeffsczhang@gmail.com
 
 ## Licensing:
